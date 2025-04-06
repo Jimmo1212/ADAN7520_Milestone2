@@ -38,6 +38,3 @@ This project aims to address the challenges identified in user research (see the
 - **User-Centric Insights:** Tailor advice to each user’s financial goals (e.g., debt repayment, saving for mortgage, basic investing).  
 - **Secure Data Handling:** Encrypt sensitive data and follow best practices in data privacy and compliance.
 
----
-
-## Repository Structure
